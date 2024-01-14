@@ -1,0 +1,24 @@
+.item {
+  display: block;
+  text-align: center;
+  border: 2px solid black;
+  height: 200px;
+  width: 120px;
+  border-radius: 5px;
+}
+.avatar {
+  margin: 15px auto;
+}
+.name {
+  font-size: 30px;
+}
+.status {
+  font-size: 18px;
+}
+.active {
+  color: green;
+}
+
+.retired {
+  color: red;
+}

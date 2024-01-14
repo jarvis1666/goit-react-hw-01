@@ -1,0 +1,24 @@
+.transactionHistory {
+  width: 600px;
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+th {
+  background-color: black;
+  color: white;
+  height: 40px;
+}
+.whiteRow {
+  background-color: rgb(241, 232, 232);
+}
+.bleckRow {
+  background-color: rgb(146, 140, 140);
+}
